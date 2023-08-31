@@ -25,7 +25,7 @@ O <b>Playlist Privatizer</b> está finalizado.
 
 ### GIF Demonstrativo <a id="gif"></a>
 
-![Gif Demonstrativo](resources/images/problema_e_solucao/Playlist Privatizer.gif)
+![Gif Demonstrativo](resources/images/problema_e_solucao/Playlist_Privatizer.gif)
 
 ### Capturas de Tela <a id="capturas"></a>
 
